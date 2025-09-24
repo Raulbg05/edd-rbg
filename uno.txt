@@ -1,0 +1,3 @@
+este es un archivo para usar de prueba con git
+
+esta es la primera versión de este archivo
